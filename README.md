@@ -8,8 +8,8 @@ This project uses Random Forests (RF) to identify mislabelled samples. Due to it
 
 As an example, the figure below shows consistency scores for samples in Class 1 that is expected to have a low degree of misclassification. As we can see, for most of the sample the trees are in agreement, assigning samples their right class.  
 
-<img src="Plots/Consistency%2C%20Class%201%2C%20AA.eps" >  
+<img src="Plots/Consistency%20Class%201%2C%20Original.png" >  
 
 Unlike Class 1, consistency measurements of Class 5 are substantially lower. Class 5 was expected to have high misclassification rate with Classes 6 and 7.  
 
-<img src="Plots/Consistency%2C%20Class%205%2C%20AA.eps" >  
+<img src="Plots/Consistency%20Class%205%2C%20Original.png" >  
